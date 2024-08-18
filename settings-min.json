@@ -8,4 +8,13 @@
     "apc.font.family": "Inter",
     "editor.fontSize": 14,
     "editor.lineHeight": 1.8,
+    "editor.semanticHighlighting.enabled": false,
+    "explorer.confirmDelete": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "explorer.compactFolders": false,
+    "breadcrumbs.enabled": false,
+    "editor.tabSize": 2,
+    "editor.scrollbar.vertical": "hidden",
+    "workbench.statusBar.visible": false,
+    "editor.renderLineHighlight": "gutter",
 }
